@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EndGameActivity">
+
+    <ImageView
+        android:id="@+id/imageWinOrLose"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        app:srcCompat="@drawable/common_google_signin_btn_icon_dark"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:id="@+id/textWinOrLose"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/dummy" />
+
+    <Button
+        android:id="@+id/buttonEndGame"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:onClick="onClickEndGame"
+        android:text="@string/endgame" />
+
+</LinearLayout>

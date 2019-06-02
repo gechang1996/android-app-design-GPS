@@ -1,0 +1,52 @@
+
+Project 3 Submission
+
+Group Name: Star Hunters 
+
+When you have completed the project, complete the following form and include it with your project. Include this file as a text file in the folder with your project when you turn it in. 
+
+Project Name: Star Collect 
+
+Project Description: Mobile Mutiplayer game where all player battle for hunting more stars. (please enter)
+
+Video Link: https://youtu.be/5Lmoc5JqenA  
+
+Member 1: Chang Ge
+
+Responsiblity:
+Server PHP scripting and database communication
+Client-side XML parsing and request threading
+Video recording
+
+
+
+Member 2: Wei Li
+
+Responsiblity:
+Showing locations on a live map
+GPS part in the code
+Video recording
+
+
+
+Member 3: Rose Wang
+
+Responsiblity:
+Login / register layouts and activity navigation
+The surrender implementation
+Making a video
+
+
+
+
+
+Member 4: Naifu Ji
+
+Responsiblity:
+Endgame activity and layout
+Passing game states through activities
+Video recording
+
+
+
+
